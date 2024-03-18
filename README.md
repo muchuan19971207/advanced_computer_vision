@@ -1,6 +1,5 @@
 # advanced_computer_vision
-
-- Syllabus
+## Syllabus
 - Week 1. Introduction
 - Week 2. Fundamental Knowledge
 - Week 3. Thresholding, Segmentation, and Region Analysis
