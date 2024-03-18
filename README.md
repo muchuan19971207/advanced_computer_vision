@@ -1,4 +1,3 @@
-# advanced_computer_vision
 ## Syllabus
 - Week 1. Introduction
 - Week 2. Fundamental Knowledge
